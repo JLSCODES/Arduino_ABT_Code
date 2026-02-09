@@ -1,0 +1,9 @@
+to commit to github 
+
+open git Bash 
+cd Arduino_ABT_Code
+cd Arduino
+cd Data_Fusion
+git add . 
+git commit -m "message"
+git push 
