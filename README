@@ -1,9 +1,10 @@
 to commit to github 
 
-open git Bash 
-cd Arduino_ABT_Code
-cd Arduino
-cd Data_Fusion
-git add . 
-git commit -m "message"
-git push 
+open git Bash
+
+1. cd Arduino_ABT_Code
+2. cd Arduino
+3. cd Data_Fusion
+4. git add . 
+5. git commit -m "message"
+6. git push 
